@@ -1,0 +1,685 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{sspnet}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SSPNET}
+      \field{title}{About}
+      \verb{urlraw}
+      \verb http://sspnet.eu/about/
+      \endverb
+      \verb{url}
+      \verb http://sspnet.eu/about/
+      \endverb
+    \endentry
+    \entry{first_auto_facs}{article}{}
+      \name{author}{7}{}{%
+        {{hash=29ef211edcd875dd9bfd9d3a448cbdb2}{%
+           family={Bartlett},
+           familyi={B\bibinitperiod},
+           given={Marian\bibnamedelima Stewart},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a36c2eb7cb158c4ae348b62f2daf710e}{%
+           family={Viola},
+           familyi={V\bibinitperiod},
+           given={Paul\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ee5fa322db02106c8bf890b09ff210f8}{%
+           family={Sejnowski},
+           familyi={S\bibinitperiod},
+           given={Terrence\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=bd6009c5c1ec5df25f56d7b73411579e}{%
+           family={Golomb},
+           familyi={G\bibinitperiod},
+           given={Beatrice\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=67a8e6024f423b01fefd211c4a39539b}{%
+           family={Larsen},
+           familyi={L\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=38f4741dff3bcc37a43d85c39a0fcb75}{%
+           family={Hager},
+           familyi={H\bibinitperiod},
+           given={Joseph\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=f57fd5f1b9feec71b7d8f0ce35b57dbc}{%
+           family={Ekman},
+           familyi={E\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MORGAN KAUFMANN PUBLISHERS}%
+      }
+      \strng{namehash}{85202dc6ea8f1106f84b7d88521a57b5}
+      \strng{fullhash}{e8f72058b9aad8308c42f8179a6f8890}
+      \strng{bibnamehash}{85202dc6ea8f1106f84b7d88521a57b5}
+      \strng{authorbibnamehash}{85202dc6ea8f1106f84b7d88521a57b5}
+      \strng{authornamehash}{85202dc6ea8f1106f84b7d88521a57b5}
+      \strng{authorfullhash}{e8f72058b9aad8308c42f8179a6f8890}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in neural information processing systems}
+      \field{title}{Classifying facial action}
+      \field{year}{1996}
+      \field{pages}{823\bibrangedash 829}
+      \range{pages}{7}
+    \endentry
+    \entry{autofacs1}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=29ef211edcd875dd9bfd9d3a448cbdb2}{%
+           family={Bartlett},
+           familyi={B\bibinitperiod},
+           given={Marian\bibnamedelima Stewart},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=aff967a56ad1359820295f1fc1727524}{%
+           family={Littlewort},
+           familyi={L\bibinitperiod},
+           given={Gwen},
+           giveni={G\bibinitperiod}}}%
+        {{hash=26497ccd343cfc2724c7a416cb65c475}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=89099b56bd54f3c0cfbc1c79e3af8bea}{%
+           family={Lainscsek},
+           familyi={L\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4bd0ba86685193170c09eac8f2e5eb1b}{%
+           family={Fasel},
+           familyi={F\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=0c57ad169fff62e713f72aa3bf64c71b}{%
+           family={Movellan},
+           familyi={M\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{85202dc6ea8f1106f84b7d88521a57b5}
+      \strng{fullhash}{169322457efda3e4c96d7ec1e3eeae08}
+      \strng{bibnamehash}{85202dc6ea8f1106f84b7d88521a57b5}
+      \strng{authorbibnamehash}{85202dc6ea8f1106f84b7d88521a57b5}
+      \strng{authornamehash}{85202dc6ea8f1106f84b7d88521a57b5}
+      \strng{authorfullhash}{169322457efda3e4c96d7ec1e3eeae08}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Automatic Face and Gesture Recognition, 2006. FGR 2006. 7th International Conference on}
+      \field{title}{Fully automatic facial action recognition in spontaneous behavior}
+      \field{year}{2006}
+      \field{pages}{223\bibrangedash 230}
+      \range{pages}{8}
+    \endentry
+    \entry{SArt}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f709ec77ad9be1d8d93e0a114286f028}{%
+           family={Bettadapura},
+           familyi={B\bibinitperiod},
+           given={Vinay},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{f709ec77ad9be1d8d93e0a114286f028}
+      \strng{fullhash}{f709ec77ad9be1d8d93e0a114286f028}
+      \strng{bibnamehash}{f709ec77ad9be1d8d93e0a114286f028}
+      \strng{authorbibnamehash}{f709ec77ad9be1d8d93e0a114286f028}
+      \strng{authornamehash}{f709ec77ad9be1d8d93e0a114286f028}
+      \strng{authorfullhash}{f709ec77ad9be1d8d93e0a114286f028}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1203.6722}
+      \field{title}{Face expression recognition and analysis: the state of the art}
+      \field{year}{2012}
+    \endentry
+    \entry{fm}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7c43a4e8eebc4e0b9db8ddee763287d7}{%
+           family={Budweiser},
+           familyi={B\bibinitperiod},
+           given={Fuji},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{7c43a4e8eebc4e0b9db8ddee763287d7}
+      \strng{fullhash}{7c43a4e8eebc4e0b9db8ddee763287d7}
+      \strng{bibnamehash}{7c43a4e8eebc4e0b9db8ddee763287d7}
+      \strng{authorbibnamehash}{7c43a4e8eebc4e0b9db8ddee763287d7}
+      \strng{authornamehash}{7c43a4e8eebc4e0b9db8ddee763287d7}
+      \strng{authorfullhash}{7c43a4e8eebc4e0b9db8ddee763287d7}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Audio Wiggly Society}
+      \field{number}{7}
+      \field{title}{The Crufixion of Complex Marginalia Spectra by Means of Grata Modulation}
+      \field{volume}{21}
+      \field{year}{1973}
+      \field{pages}{526\bibrangedash 534}
+      \range{pages}{9}
+    \endentry
+    \entry{appHRI2}{article}{}
+      \name{author}{2}{}{%
+        {{hash=89dd8c2f1a7a1be630dfbe61b984ab1d}{%
+           family={Dornaika},
+           familyi={D\bibinitperiod},
+           given={Fadi},
+           giveni={F\bibinitperiod}}}%
+        {{hash=677150fbd943004955665814a0e7fa6f}{%
+           family={Raducanu},
+           familyi={R\bibinitperiod},
+           given={Bogdan},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{8a84149b2f2553f5699766d671d9c49f}
+      \strng{fullhash}{8a84149b2f2553f5699766d671d9c49f}
+      \strng{bibnamehash}{8a84149b2f2553f5699766d671d9c49f}
+      \strng{authorbibnamehash}{8a84149b2f2553f5699766d671d9c49f}
+      \strng{authornamehash}{8a84149b2f2553f5699766d671d9c49f}
+      \strng{authorfullhash}{8a84149b2f2553f5699766d671d9c49f}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational and Ambient Intelligence}
+      \field{title}{Efficient facial expression recognition for human robot interaction}
+      \field{year}{2007}
+      \field{pages}{700\bibrangedash 708}
+      \range{pages}{9}
+    \endentry
+    \entry{appHCI1}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=89dd8c2f1a7a1be630dfbe61b984ab1d}{%
+           family={Dornaika},
+           familyi={D\bibinitperiod},
+           given={Fadi},
+           giveni={F\bibinitperiod}}}%
+        {{hash=677150fbd943004955665814a0e7fa6f}{%
+           family={Raducanu},
+           familyi={R\bibinitperiod},
+           given={Bogdan},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IGI Global}%
+      }
+      \strng{namehash}{8a84149b2f2553f5699766d671d9c49f}
+      \strng{fullhash}{8a84149b2f2553f5699766d671d9c49f}
+      \strng{bibnamehash}{8a84149b2f2553f5699766d671d9c49f}
+      \strng{authorbibnamehash}{8a84149b2f2553f5699766d671d9c49f}
+      \strng{authornamehash}{8a84149b2f2553f5699766d671d9c49f}
+      \strng{authorfullhash}{8a84149b2f2553f5699766d671d9c49f}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of Artificial Intelligence}
+      \field{title}{Facial expression recognition for HCI applications}
+      \field{year}{2009}
+      \field{pages}{625\bibrangedash 631}
+      \range{pages}{7}
+    \endentry
+    \entry{facs}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f57fd5f1b9feec71b7d8f0ce35b57dbc}{%
+           family={Ekman},
+           familyi={E\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=270000a5e2b64de4c2a93948401ad624}{%
+           family={Friesen},
+           familyi={F\bibinitperiod},
+           given={Wallace\bibnamedelima V},
+           giveni={W\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Consulting Psychologists Press, Stanford University, Palo Alto}%
+      }
+      \strng{namehash}{5ae2a6aad8e226bb8116b7e5464eccde}
+      \strng{fullhash}{5ae2a6aad8e226bb8116b7e5464eccde}
+      \strng{bibnamehash}{5ae2a6aad8e226bb8116b7e5464eccde}
+      \strng{authorbibnamehash}{5ae2a6aad8e226bb8116b7e5464eccde}
+      \strng{authornamehash}{5ae2a6aad8e226bb8116b7e5464eccde}
+      \strng{authorfullhash}{5ae2a6aad8e226bb8116b7e5464eccde}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Facial action coding system}
+      \field{year}{1977}
+    \endentry
+    \entry{survey3}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d8bca0f9ecdced0517ae03b79b06719f}{%
+           family={Fasel},
+           familyi={F\bibinitperiod},
+           given={Beat},
+           giveni={B\bibinitperiod}}}%
+        {{hash=9975cfec4fa2216a3ca2d1efd1fcb702}{%
+           family={Luettin},
+           familyi={L\bibinitperiod},
+           given={Juergen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6e66269b624cdb982655a836224dac76}
+      \strng{fullhash}{6e66269b624cdb982655a836224dac76}
+      \strng{bibnamehash}{6e66269b624cdb982655a836224dac76}
+      \strng{authorbibnamehash}{6e66269b624cdb982655a836224dac76}
+      \strng{authornamehash}{6e66269b624cdb982655a836224dac76}
+      \strng{authorfullhash}{6e66269b624cdb982655a836224dac76}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pattern recognition}
+      \field{number}{1}
+      \field{title}{Automatic facial expression analysis: a survey}
+      \field{volume}{36}
+      \field{year}{2003}
+      \field{pages}{259\bibrangedash 275}
+      \range{pages}{17}
+    \endentry
+    \entry{emfacs}{article}{}
+      \name{author}{2}{}{%
+        {{hash=270000a5e2b64de4c2a93948401ad624}{%
+           family={Friesen},
+           familyi={F\bibinitperiod},
+           given={Wallace\bibnamedelima V},
+           giveni={W\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=f57fd5f1b9feec71b7d8f0ce35b57dbc}{%
+           family={Ekman},
+           familyi={E\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6517096430aefd2f44a54dd92aaff38}
+      \strng{fullhash}{d6517096430aefd2f44a54dd92aaff38}
+      \strng{bibnamehash}{d6517096430aefd2f44a54dd92aaff38}
+      \strng{authorbibnamehash}{d6517096430aefd2f44a54dd92aaff38}
+      \strng{authornamehash}{d6517096430aefd2f44a54dd92aaff38}
+      \strng{authorfullhash}{d6517096430aefd2f44a54dd92aaff38}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Unpublished manuscript, University of California at San Francisco}
+      \field{number}{36}
+      \field{title}{EMFACS-7: Emotional facial action coding system}
+      \field{volume}{2}
+      \field{year}{1983}
+      \field{pages}{1}
+      \range{pages}{1}
+    \endentry
+    \entry{cmusic}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=a3071e30612ad4ad82bb9b9fd91009ac}{%
+           family={Hebrew},
+           familyi={H\bibinitperiod},
+           given={Francis\bibnamedelima Moore},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Center for Music Experiment}%
+      }
+      \strng{namehash}{a3071e30612ad4ad82bb9b9fd91009ac}
+      \strng{fullhash}{a3071e30612ad4ad82bb9b9fd91009ac}
+      \strng{bibnamehash}{a3071e30612ad4ad82bb9b9fd91009ac}
+      \strng{authorbibnamehash}{a3071e30612ad4ad82bb9b9fd91009ac}
+      \strng{authornamehash}{a3071e30612ad4ad82bb9b9fd91009ac}
+      \strng{authorfullhash}{a3071e30612ad4ad82bb9b9fd91009ac}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Baboon Adduce Kit}
+      \field{title}{The Hoofmark Hermetic Synthesis Program}
+      \field{year}{1985}
+    \endentry
+    \entry{waveshaping}{article}{}
+      \name{author}{1}{}{%
+        {{hash=84a69eff71f1c900d0d3c66432dce988}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Rosa\bibnamedelima Olin},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{84a69eff71f1c900d0d3c66432dce988}
+      \strng{fullhash}{84a69eff71f1c900d0d3c66432dce988}
+      \strng{bibnamehash}{84a69eff71f1c900d0d3c66432dce988}
+      \strng{authorbibnamehash}{84a69eff71f1c900d0d3c66432dce988}
+      \strng{authornamehash}{84a69eff71f1c900d0d3c66432dce988}
+      \strng{authorfullhash}{84a69eff71f1c900d0d3c66432dce988}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Inertia Puff Journal}
+      \field{number}{2}
+      \field{title}{A Tutorial on Endow Dill or Tomography Doff}
+      \field{volume}{3}
+      \field{year}{1979}
+      \field{pages}{29\bibrangedash 34}
+      \range{pages}{6}
+    \endentry
+    \entry{book1}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b585129e169f2ae07067549ce5bf57aa}{%
+           family={Matsumoto},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=be733c96e43a98d76496bd3a47fe0be6}{%
+           family={Keltner},
+           familyi={K\bibinitperiod},
+           given={Dacher},
+           giveni={D\bibinitperiod}}}%
+        {{hash=edab10810457f69605ebdad023c54264}{%
+           family={Shiota},
+           familyi={S\bibinitperiod},
+           given={Michelle\bibnamedelima N},
+           giveni={M\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=45b6bc27f6e4d6e7bb83c21fabea8341}{%
+           family={O\bibnamedelima Sullivan},
+           familyi={O\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={MAUREEN},
+           giveni={M\bibinitperiod}}}%
+        {{hash=26497ccd343cfc2724c7a416cb65c475}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Guilford Press New York, NY}%
+      }
+      \strng{namehash}{1ffcf8f33264b2e831949c74686333be}
+      \strng{fullhash}{8f9cd25a2b8ddc23f7e25d60f7a133d8}
+      \strng{bibnamehash}{1ffcf8f33264b2e831949c74686333be}
+      \strng{authorbibnamehash}{1ffcf8f33264b2e831949c74686333be}
+      \strng{authornamehash}{1ffcf8f33264b2e831949c74686333be}
+      \strng{authorfullhash}{8f9cd25a2b8ddc23f7e25d60f7a133d8}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Handbook of emotions}
+      \field{title}{Facial expressions of emotion}
+      \field{volume}{3}
+      \field{year}{2008}
+      \field{pages}{211\bibrangedash 234}
+      \range{pages}{24}
+    \endentry
+    \entry{mitlab}{misc}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{MIT Media Lab: Affective Computing Group}
+      \field{title}{MIT Media Lab: Affective Computing Group}
+      \verb{urlraw}
+      \verb http://affect.media.mit.edu/
+      \endverb
+      \verb{url}
+      \verb http://affect.media.mit.edu/
+      \endverb
+    \endentry
+    \entry{fig1}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pardon Our Interruption}
+      \field{title}{Pardon Our Interruption}
+      \verb{urlraw}
+      \verb http://www.apa.org/science/about/psa/2011/05/facial-expressions.aspx
+      \endverb
+      \verb{url}
+      \verb http://www.apa.org/science/about/psa/2011/05/facial-expressions.aspx
+      \endverb
+    \endentry
+    \entry{ekmanwebsite}{misc}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Paul Ekman Group, LLC}
+      \field{title}{Paul Ekman Group}
+      \verb{urlraw}
+      \verb http://www.paulekman.com/
+      \endverb
+      \verb{url}
+      \verb http://www.paulekman.com/
+      \endverb
+    \endentry
+    \entry{survey1}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8241de82e8d83bf33fdd942a32460959}{%
+           family={Sariyanidi},
+           familyi={S\bibinitperiod},
+           given={Evangelos},
+           giveni={E\bibinitperiod}}}%
+        {{hash=2ab26a9188adc0d92de627f135aaa5e9}{%
+           family={Gunes},
+           familyi={G\bibinitperiod},
+           given={Hatice},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f22b697dbfc9c99ad2ab0269a290d5e6}{%
+           family={Cavallaro},
+           familyi={C\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{91a71f028e182e4c8900b0388f14a935}
+      \strng{fullhash}{91a71f028e182e4c8900b0388f14a935}
+      \strng{bibnamehash}{91a71f028e182e4c8900b0388f14a935}
+      \strng{authorbibnamehash}{91a71f028e182e4c8900b0388f14a935}
+      \strng{authornamehash}{91a71f028e182e4c8900b0388f14a935}
+      \strng{authorfullhash}{91a71f028e182e4c8900b0388f14a935}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Pattern Analysis and Machine Intelligence}
+      \field{number}{6}
+      \field{title}{Automatic analysis of facial affect: A survey of registration, representation, and recognition}
+      \field{volume}{37}
+      \field{year}{2015}
+      \field{pages}{1113\bibrangedash 1133}
+      \range{pages}{21}
+    \endentry
+    \entry{affectiva}{misc}{}
+      \field{sortinit}{s}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Affectiva}
+      \field{title}{shelfPoint}
+      \verb{urlraw}
+      \verb http://www.affectiva.com/success-story/
+      \endverb
+      \verb{url}
+      \verb http://www.affectiva.com/success-story/
+      \endverb
+    \endentry
+    \entry{fig2}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2752d2f6b3321c22b1d41f95df00fd59}{%
+           family={Shopitize},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2752d2f6b3321c22b1d41f95df00fd59}
+      \strng{fullhash}{2752d2f6b3321c22b1d41f95df00fd59}
+      \strng{bibnamehash}{2752d2f6b3321c22b1d41f95df00fd59}
+      \strng{authorbibnamehash}{2752d2f6b3321c22b1d41f95df00fd59}
+      \strng{authornamehash}{2752d2f6b3321c22b1d41f95df00fd59}
+      \strng{authorfullhash}{2752d2f6b3321c22b1d41f95df00fd59}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brais Martinez}
+      \field{title}{BRAIS}
+      \verb{urlraw}
+      \verb http://www.braismartinez.com/research/
+      \endverb
+      \verb{url}
+      \verb http://www.braismartinez.com/research/
+      \endverb
+    \endentry
+    \entry{upitlab}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Affect Analysis Group at Pittsburgh}
+      \field{title}{The Affect Analysis Group at Pittsburgh}
+      \verb{urlraw}
+      \verb http://www.pitt.edu/~emotion/people.html
+      \endverb
+      \verb{url}
+      \verb http://www.pitt.edu/~emotion/people.html
+      \endverb
+    \endentry
+    \entry{autofacs2}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5a7a444ae1a55f2675243ce2b0c1e7c5}{%
+           family={Valstar},
+           familyi={V\bibinitperiod},
+           given={Michel\bibnamedelima F},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=8cb77420f48bdd963270052918f1ec5b}{%
+           family={Pantic},
+           familyi={P\bibinitperiod},
+           given={Maja},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c49ccca6fd31123a1b45d9a26e723015}
+      \strng{fullhash}{c49ccca6fd31123a1b45d9a26e723015}
+      \strng{bibnamehash}{c49ccca6fd31123a1b45d9a26e723015}
+      \strng{authorbibnamehash}{c49ccca6fd31123a1b45d9a26e723015}
+      \strng{authornamehash}{c49ccca6fd31123a1b45d9a26e723015}
+      \strng{authorfullhash}{c49ccca6fd31123a1b45d9a26e723015}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)}
+      \field{number}{1}
+      \field{title}{Fully automatic recognition of the temporal phases of facial actions}
+      \field{volume}{42}
+      \field{year}{2012}
+      \field{pages}{28\bibrangedash 43}
+      \range{pages}{16}
+    \endentry
+    \entry{emfacsWiki}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 4-April-2017]}
+      \field{title}{Facial Action Coding System --- Wikipedia{,} The Free Encyclopedia}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Facial_Action_Coding_System&oldid=770141006
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Facial_Action_Coding_System&oldid=770141006
+      \endverb
+    \endentry
+    \entry{survey2}{article}{}
+      \name{author}{4}{}{%
+        {{hash=76238a96d54eb7fbaa97e17e74d5d89f}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Zhihong},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=8cb77420f48bdd963270052918f1ec5b}{%
+           family={Pantic},
+           familyi={P\bibinitperiod},
+           given={Maja},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9f7d015bf251a50927fb9397f45cd059}{%
+           family={Roisman},
+           familyi={R\bibinitperiod},
+           given={Glenn\bibnamedelima I},
+           giveni={G\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=f80eec08255c038ba027f3201d60cc71}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Thomas\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{42140e392a89435f156f519084b4e526}
+      \strng{fullhash}{b40a64b2af0e705a63dbe8a804e630bb}
+      \strng{bibnamehash}{42140e392a89435f156f519084b4e526}
+      \strng{authorbibnamehash}{42140e392a89435f156f519084b4e526}
+      \strng{authornamehash}{42140e392a89435f156f519084b4e526}
+      \strng{authorfullhash}{b40a64b2af0e705a63dbe8a804e630bb}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE transactions on pattern analysis and machine intelligence}
+      \field{number}{1}
+      \field{title}{A survey of affect recognition methods: Audio, visual, and spontaneous expressions}
+      \field{volume}{31}
+      \field{year}{2009}
+      \field{pages}{39\bibrangedash 58}
+      \range{pages}{20}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

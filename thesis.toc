@@ -1,0 +1,131 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Contents}{ii}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Figures}{iv}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Tables}{v}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Overview and Motivation}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Impact and Importance}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Challenges and Potential Solutions}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Introduction to Automatic Facial Expression Classification}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Emotions and Facial Expressions}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Related Work}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Traditional Approaches}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Deep Learning Approaches}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}The thesis}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Shortcomings of previous approaches}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Assumptions and hypotheses}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Novel Features}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.6}Adopted Features}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.7}Outline and Contribution of this thesis}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {2}Image Pre-Processing}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Face Detection}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Resizing}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Use of Color}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Data Augmentation}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Frame extraction and selection for video data}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Feature Normalization}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {3}Image Classification Approaches and Architectures}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Introduction to Deep Learning}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}IMAGENET and the rise of Convolutional Neural Networks}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Modern Convolutional Neural Network Architectures}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Inception based CNNs}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Modeling FER as a sequence classification problem}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Recurrent Neural Networks as Sequence Classifiers}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Long Short Term Memory cells}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Other deep learning based video classification techniques}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Feature Pooling and Optical Flow}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {4}Training the model}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Loss Function}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Backpropagation}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Optimizers}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Learning rate}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}K-Fold Cross Validation}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Visualization of Loss}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}Overfitting and Underfitting}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {5}Datasets}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Public Datasets used}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Dataset specific pre-processing}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Modeling FER as a sequence classification problem}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Data Integration}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Long Short Term Memory cells}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Feature Normalization}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Feature Pooling and Optical Flow}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {6}Testing and Results}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Dataset specific testing}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Cross-Dataset testing}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}Unsuccessful expreiments}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Shortcomings of different approaches}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Failed Assumptions and hypotheses}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\chapternumberline {7}Conclusion and Future Work}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Contribution}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{LSTMs}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Feature Pooling}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Future Work}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Long Short Term Memory cells}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Summary}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{22}
